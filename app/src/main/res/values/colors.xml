@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#F50057</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="grey">#b8d2f5</color>
+    <color name="light_blue">#FFB8D2F5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_blue">#7383BF</color>
+    <color name="divider">#C0C0C0</color>
+</resources>

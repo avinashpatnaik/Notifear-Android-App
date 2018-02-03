@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="@drawable/divider"
+    android:orientation="vertical"
+    android:showDividers="middle|end">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/dot"
+        android:drawablePadding="20dp"
+        android:padding="12dp"
+        android:text="This app allows you to capture only required among those innumerable disturbing notifications.Make sure you select wisely."
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/dot"
+        android:drawablePadding="20dp"
+        android:padding="12dp"
+        android:text="Everything requires co-operation.This app also does.Please enable notification listener permissions"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/dot"
+        android:drawablePadding="20dp"
+        android:padding="12dp"
+        android:text="This app deletes the notifications that are three days old,hence reducing the mess.See,we care about you."
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/dot"
+        android:drawablePadding="20dp"
+        android:padding="12dp"
+        android:text="Worried that you selected a wrong app?No problem,go ahead and change it by clicking edit button"
+        android:textSize="15sp" />
+
+</LinearLayout>

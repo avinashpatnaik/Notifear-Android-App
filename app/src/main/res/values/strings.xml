@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotifEar</string>
+    <string name="notification_settings">Please allow notification access</string>
+    <string name="notification_cancel">Cancel</string>
+    <string name="no_notif_msg">Dont you think you should wait \n until you get a new notification?I mean,come on?</string>
+
+</resources>
